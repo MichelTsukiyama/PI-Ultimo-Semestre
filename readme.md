@@ -65,6 +65,7 @@ Iniciar o projeto com o comando abaixo:
 
         npm start
 
-Acessar o link:
+Acessar o link [http://localhost:3000](http://localhost:3000) ou copiar a url abaixo e colar no navegador:
 
-        http://localhost:{porta}
+    http://localhost:3000
+
