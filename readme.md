@@ -2,7 +2,8 @@
 
 Desenvolver uma aplicação orientada a dispositivos móveis e web que auxilie os usuários a buscar conteúdo de valor sobre diversas linguagens de programação.
 
-[**Vídeo do projeto**](*inserir link do YTB aqui*)
+- [**Vídeo do projeto**](https://youtu.be/qs8_zdKtHQA?t=189)
+- [**Como rodar o projeto + vídeo do projeto**](https://youtu.be/qs8_zdKtHQA?t)
 
 ----
 <br>
@@ -27,9 +28,11 @@ Desenvolver uma aplicação orientada a dispositivos móveis e web que auxilie o
 
 **Requisitos**
 
+Ter previamente instalado os itens abaixo:
+
 - Seu editor de código/IDE preferido (VS Code, Eclipse, Intellij...)
-- Java (versão);
-- Node.js v16.17.1
+- SDK .Net 6;
+- SDK Node.js v16.17.1
 - MySql v8.0
 - Git latest
 
@@ -45,9 +48,23 @@ Utilize o comando abaixo no GitBash / prompt de comando, no diretório em que de
 
 **Iniciando o Back-end**
 
-- qual diretório
-- como restaurar as dependências do projeto
-- como dar "Run" no projeto
+Acessar o diretório do Back-end:
+
+        PI-Senac/back
+
+Utilizar o comando abaixo para restaurar as depêndencias do projeto:
+
+        dotnet restore
+
+Acessar o arquivo 'appsettings.json' e alterar os valores 'root' em: 
+- uid=root 
+- pwd=root
+
+**No lugar de root deve ser inserido o usuário e senha do MySQL**
+
+Iniciar o projeto com o comando abaixo:
+
+        dotnet run
 
 <br>
 
@@ -65,6 +82,7 @@ Iniciar o projeto com o comando abaixo:
 
         npm start
 
-Acessar o link:
+Acessar o link [http://localhost:3000](http://localhost:3000) ou copiar a url abaixo e colar no navegador:
 
-        http://localhost:{porta}
+    http://localhost:3000
+
