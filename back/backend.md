@@ -1,3 +1,0 @@
-- Criar o projeto do back-end aqui;
-- Se possível colocar as rotas que serão consumidas no front ou link do swagger;
-- Preencher as informações no readme.md de como iniciar o projeto
