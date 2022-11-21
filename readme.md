@@ -2,7 +2,8 @@
 
 Desenvolver uma aplicação orientada a dispositivos móveis e web que auxilie os usuários a buscar conteúdo de valor sobre diversas linguagens de programação.
 
-[**Vídeo do projeto**](*inserir link do YTB aqui*)
+- [**Vídeo do projeto**](https://youtu.be/qs8_zdKtHQA?t=189)
+- [**Como rodar o projeto + vídeo do projeto**](https://youtu.be/qs8_zdKtHQA?t)
 
 ----
 <br>
