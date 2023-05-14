@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eb0Y/5AM1NEE1jNn5mEHPDVnasAASqYYmb83dETCfHyLkjGYmbKDew+zZ24SqFfypwYCiYmJ7IE8cJC5PK/8gA==",
+  "dgSpecHash": "ndQVvfWNU/3iGfeXSiqSeKKMUpSY33/fcKDG74o0F4g9UCV721p5Cb8S34jSCrpsPpB/x7P9Llk0C6ONqr3nag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miche\\Documents\\work2022\\teste-pi\\PI-Grupo22\\back\\back.csproj",
+  "projectFilePath": "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miche\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",
@@ -40,6 +40,7 @@
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\miche\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",

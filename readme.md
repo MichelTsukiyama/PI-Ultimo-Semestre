@@ -34,6 +34,20 @@ Ter previamente instalado os itens abaixo:
 - SDK Node.js v16.17.1 ;
 - MySql v8.0 ;
 - Git latest ;
+- Possuir uma API Key da OpenAI;
+
+<br>
+
+
+## Obter API Key da OpenAI
+
+<br>
+
+Você pode obter sua API Key para testes seguindo a documentação da propria OpenAPI.
+
+[Faça seu cadastro na OpenAI](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBzRHZiVGpnb0prQzhyS19BT0hGaFQzYjNnT1BCVldlT6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIE5Ea1VCaW5GMGhrZHRQT2x0b3M4VURZNm90VW16U2Vmo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q).
+
+[Crie sua API Key](https://platform.openai.com/docs/quickstart/add-your-api-key).
 
 <br>
 
@@ -64,6 +78,19 @@ Acessar o arquivo 'appsettings.json' e alterar os valores 'root' em:
 Iniciar o projeto com o comando abaixo:
 
         dotnet run
+
+
+**Caso receba o erro: *Unhandled exception. System.InvalidOperationException: Unable to configure HTTPS endpoint. No server certificate was specified, and the default developer certificate could not be found or is out of date.* . Execute o comando abaixo:**
+
+        dotnet dev-certs https
+
+
+**Insira sua API Key**
+
+No arquivo 'appsettings.json' coloque sua API Key na linha correspondente, conforme exemplo abaixo:
+
+    "OpenAI_Api_Key" : "SUBSTITUA SUA API KEY AQUI",
+
 
 <br>
 
