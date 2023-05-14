@@ -1,17 +1,18 @@
 # Projeto Integrador
 
-Implementar integração com a rota Completions do ChatGPT da OpenAPI, para que o usuário possa usufruir de recursos de Inteligência Artificial em sua rotina de estudos. Assim nosso usuário pode tirar dúvidas, solicitar recomendação de cursos, documentações, entre outros.
+Desenvolver uma aplicação orientada a dispositivos móveis e web que auxilie os usuários a buscar conteúdo de valor sobre diversas linguagens de programação.
 
-- [**Vídeo do projeto**]()
-- [**Como rodar o projeto + vídeo do projeto**]()
+- [**Vídeo do projeto**](https://youtu.be/qs8_zdKtHQA?t=189)
+- [**Como rodar o projeto + vídeo do projeto**](https://youtu.be/qs8_zdKtHQA?t)
 
 ----
 <br>
 
-## Grupo
+## Grupo 22
 
 **Integrantes**
 
+- Erick Von Rondow Neves
 - Leonardo Pereira Grosser
 - Lucas dos Santos Camilo
 - Mayan Barros da Silva
@@ -31,9 +32,9 @@ Ter previamente instalado os itens abaixo:
 
 - Seu editor de código/IDE preferido (VS Code, Eclipse, Intellij...)
 - SDK .Net 6;
-- SDK Node.js v16.17.1 ;
-- MySql v8.0 ;
-- Git latest ;
+- SDK Node.js v16.17.1
+- MySql v8.0
+- Git latest
 
 <br>
 
@@ -49,7 +50,7 @@ Utilize o comando abaixo no GitBash / prompt de comando, no diretório em que de
 
 Acessar o diretório do Back-end:
 
-        ./back
+        PI-Senac/back
 
 Utilizar o comando abaixo para restaurar as depêndencias do projeto:
 
@@ -71,7 +72,7 @@ Iniciar o projeto com o comando abaixo:
 
 Acessar o diretório do Front-end:
 
-        ./front
+        PI-Senac/front
 
 Utilizar o comando abaixo para restaurar as depêndencias do projeto:
 
