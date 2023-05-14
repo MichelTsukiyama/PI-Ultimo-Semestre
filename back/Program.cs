@@ -1,3 +1,5 @@
+using back.Conectores.OpenAPI.Conector;
+using back.Conectores.OpenAPI.Interface;
 using back.Context;
 using back.Interface;
 using back.Repository;
@@ -19,6 +21,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
                     ));
 
 builder.Services.AddScoped<ITecnologiaRepository, TecnologiaRepository>();
+builder.Services.AddScoped<ICompletionConector, CompletionConector>();
 
 builder.Services.AddCors(options => 
                 options.AddDefaultPolicy(builder => 
