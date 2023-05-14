@@ -5,6 +5,10 @@ Implementar integração com a rota Completions do ChatGPT da OpenAPI, para que 
 - [**Vídeo do projeto**]()
 - [**Como rodar o projeto + vídeo do projeto**]()
 
+Verifique abaixo como era a versão anterior:
+
+[Readme da versão anterior](https://github.com/MichelTsukiyama/PI-Ultimo-Semestre/blob/develop/readme-v1.md).
+
 ----
 <br>
 
@@ -48,6 +52,10 @@ Você pode obter sua API Key para testes seguindo a documentação da propria Op
 [Faça seu cadastro na OpenAI](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBzRHZiVGpnb0prQzhyS19BT0hGaFQzYjNnT1BCVldlT6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIE5Ea1VCaW5GMGhrZHRQT2x0b3M4VURZNm90VW16U2Vmo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q).
 
 [Crie sua API Key](https://platform.openai.com/docs/quickstart/add-your-api-key).
+
+<br>
+
+-----
 
 <br>
 

@@ -22,6 +22,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddScoped<ITecnologiaRepository, TecnologiaRepository>();
 builder.Services.AddScoped<ICompletionConector, CompletionConector>();
+builder.Services.AddScoped<IParceiroRepository, ParceiroRepository>();
+builder.Services.AddScoped<IOpenApiRulesRepository, OpenApiRulesRepository>();
 
 builder.Services.AddCors(options => 
                 options.AddDefaultPolicy(builder => 
