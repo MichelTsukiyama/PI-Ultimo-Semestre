@@ -15,7 +15,7 @@ export default function Result() {
   function back() {
     localStorage.clear();
 
-    navigate("/");
+    navigate("/search");
   }
 
   return (

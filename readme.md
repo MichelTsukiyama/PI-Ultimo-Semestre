@@ -63,7 +63,7 @@ Você pode obter sua API Key para testes seguindo a documentação da propria Op
 
 Utilize o comando abaixo no GitBash / prompt de comando, no diretório em que deseja clonar este projeto.
 
-    git clone https://github.com/MichelTsukiyama/PI-Grupo22.git
+    git clone https://github.com/MichelTsukiyama/PI-Ultimo-Semestre.git
 
 <br>
 
