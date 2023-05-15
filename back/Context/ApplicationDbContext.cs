@@ -1,4 +1,6 @@
 using back.Model;
+using back.Model.OpenAPI.Rules;
+using back.Model.Sponsor;
 using Microsoft.EntityFrameworkCore;
 
 namespace back.Context
@@ -9,6 +11,8 @@ namespace back.Context
         {}
 
         public DbSet<Tecnologia> Tecnologias {get; set;}
+        public DbSet<OpenApiRules> Regras {get; set;}
+        public DbSet<Parceiro> Parceiros {get; set;}
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
