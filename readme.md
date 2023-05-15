@@ -2,8 +2,8 @@
 
 Implementar integração com a rota Completions do ChatGPT da OpenAPI, para que o usuário possa usufruir de recursos de Inteligência Artificial em sua rotina de estudos. Assim nosso usuário pode tirar dúvidas, solicitar recomendação de cursos, documentações, entre outros.
 
-- [**Vídeo do projeto**]()
-- [**Como rodar o projeto + vídeo do projeto**]()
+- [**Vídeo do projeto**](https://youtu.be/ei1V-fPp79k?t=412)
+- [**Como rodar o projeto + vídeo do projeto**](https://youtu.be/ei1V-fPp79k)
 
 Verifique abaixo como era a versão anterior:
 
@@ -83,6 +83,13 @@ Acessar o arquivo 'appsettings.json' e alterar os valores 'root' em:
 
 **No lugar de root deve ser inserido o usuário e senha do MySQL**
 
+**Insira sua API Key**
+
+No arquivo 'appsettings.json' coloque sua API Key na linha correspondente, conforme exemplo abaixo:
+
+    "OpenAI_Api_Key" : "SUBSTITUA SUA API KEY AQUI",
+
+
 Iniciar o projeto com o comando abaixo:
 
         dotnet run
@@ -91,14 +98,6 @@ Iniciar o projeto com o comando abaixo:
 **Caso receba o erro: *Unhandled exception. System.InvalidOperationException: Unable to configure HTTPS endpoint. No server certificate was specified, and the default developer certificate could not be found or is out of date.* . Execute o comando abaixo:**
 
         dotnet dev-certs https
-
-
-**Insira sua API Key**
-
-No arquivo 'appsettings.json' coloque sua API Key na linha correspondente, conforme exemplo abaixo:
-
-    "OpenAI_Api_Key" : "SUBSTITUA SUA API KEY AQUI",
-
 
 <br>
 

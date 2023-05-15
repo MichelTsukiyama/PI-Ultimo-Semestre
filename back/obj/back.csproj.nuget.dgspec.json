@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\back.csproj": {}
+    "C:\\Users\\miche\\Desktop\\PI-5semestre\\PI-Ultimo-Semestre\\back\\back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\back.csproj": {
+    "C:\\Users\\miche\\Desktop\\PI-5semestre\\PI-Ultimo-Semestre\\back\\back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\back.csproj",
+        "projectUniqueName": "C:\\Users\\miche\\Desktop\\PI-5semestre\\PI-Ultimo-Semestre\\back\\back.csproj",
         "projectName": "back",
-        "projectPath": "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\back.csproj",
+        "projectPath": "C:\\Users\\miche\\Desktop\\PI-5semestre\\PI-Ultimo-Semestre\\back\\back.csproj",
         "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\obj\\",
+        "outputPath": "C:\\Users\\miche\\Desktop\\PI-5semestre\\PI-Ultimo-Semestre\\back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

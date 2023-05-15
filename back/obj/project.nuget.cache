@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ndQVvfWNU/3iGfeXSiqSeKKMUpSY33/fcKDG74o0F4g9UCV721p5Cb8S34jSCrpsPpB/x7P9Llk0C6ONqr3nag==",
+  "dgSpecHash": "6WRtN7FhJHEQCedxddNiATlJuvOqg2EUny6MfaVvpWM6hKb9Fllni1XOl7YNSjFEXDjY5iLD81jLTxqOpp6OwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miche\\Desktop\\PI-Grupo22\\back\\back.csproj",
+  "projectFilePath": "C:\\Users\\miche\\Desktop\\PI-5semestre\\PI-Ultimo-Semestre\\back\\back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miche\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",
